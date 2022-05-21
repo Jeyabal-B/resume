@@ -41,6 +41,10 @@ body {
     font-weight: 300;
 }
 
+.tagline {
+    font-style: italic;
+}
+
 .header .left
 .header .right {
     vertical-align: top;
@@ -142,6 +146,3 @@ img {
     color: #54AFE4;
 }
   
-.tagline {
-    font-style: italic;
-}
